@@ -25,3 +25,8 @@
 기술이 사람의 문제를 해결할 수 있다는 믿음으로 개발합니다.  
 새로운 환경에서도 안정적인 구조와 협업을 중시하며,  
 더 나은 코드를 위해 매일 조금씩 배우고 있습니다.
+
+### 📫 Contact
+- Email: devshin.autumn@gmail.com  
+- GitHub: [github.com/devShinAutumn](https://github.com/devShinAutumn)  
+- Blog: [autumn-code.tistory.com](https://autumn-code.tistory.com)
