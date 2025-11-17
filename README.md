@@ -8,7 +8,7 @@
 ### 💻 Tech Stack
 **Backend**: Java, Spring Boot, JPA, Kafka, Redis, PostgreSQL  
 **Infra**: AWS(EC2, S3), Jenkins, Docker, Grafana, Datadog  
-**Frontend**: JSP, jQuery, React(기초)  
+**Frontend**: HTMP, CSS, JSP, JAVASCRIPT, jQuery, React(기초)  
 
 ### 📁 Projects
 - **Kafka Flow** – Spring Boot와 Kafka 기반 비동기 메시징 프로젝트  
